@@ -1,5 +1,10 @@
 bin/
+*.class
 .classpath
 .project
 .settings/
-*.class
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
