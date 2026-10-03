@@ -3,6 +3,10 @@
 A Java-based console application for practicing and managing
 Data Structures and Algorithms problems.
 
+## 🖥️ Application Demo
+
+![DSA Practice Tracker Demo](screenshot.png)
+
 ## 📌 Project Overview
 
 DSA Practice Tracker allows users to maintain a list of DSA problems,
@@ -22,7 +26,7 @@ Data Structures and Algorithms from scratch.
 - Filter problems by topic
 - Filter problems by difficulty
 - Update problem details
-- Delete a problem
+- Delete problem
 - Show solving progress
 - Practice DSA algorithms
 - Save problems
@@ -30,11 +34,13 @@ Data Structures and Algorithms from scratch.
 ## 🧠 DSA Topics
 
 ### Arrays
-- Array operations
+
+- Array Operations
 - Linear Search
 - Binary Search
 
 ### Sorting
+
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -43,6 +49,7 @@ Data Structures and Algorithms from scratch.
 - Heap Sort
 
 ### Stack
+
 - Stack using Array
 - Stack using Linked List
 - Reverse String
@@ -52,22 +59,26 @@ Data Structures and Algorithms from scratch.
 - Postfix Evaluation
 
 ### Queue
+
 - Queue using Array
 - Circular Queue
 - Queue using Linked List
 
 ### Linked List
+
 - Singly Linked List
 - Doubly Linked List
 - Circular Linked List
 
 ### Trees
+
 - Binary Tree
 - Binary Search Tree
 
 ### Other
+
 - Graph
-- DSA problem tracking
+- DSA Problem Tracking
 
 ## 🛠️ Technologies Used
 
@@ -88,6 +99,7 @@ DSAPracticeTracker/
 │   │
 │   └── dsapracticetracker/
 │       ├── ArrayOperations.java
+│       ├── BalancedBrackets.java
 │       ├── BinarySearch.java
 │       ├── BinarySearchTree.java
 │       ├── BinaryTree.java
@@ -102,12 +114,18 @@ DSAPracticeTracker/
 │       ├── LinearSearch.java
 │       ├── LinkedListOperations.java
 │       ├── MergeSort.java
+│       ├── PalindromeUsingStack.java
+│       ├── PostfixEvaluation.java
+│       ├── Problem.java
 │       ├── QuickSort.java
 │       ├── QueueArray.java
+│       ├── QueueUsingLinkedList.java
+│       ├── ReverseStringUsingStack.java
 │       ├── SelectionSort.java
 │       ├── StackUsingArray.java
 │       ├── StackUsingLinkedList.java
 │       └── DSAPracticeTracker.java
 │
+├── screenshot.png
 ├── .gitignore
 └── README.md
